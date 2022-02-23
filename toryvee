@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta content="text/html; charset=us-ascii" http-equiv="Content-Type">
+  <meta content="utf-8" http-equiv="encoding">
+  <title>My Prime Academy Application Submission</title>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body>
+  <div id="container">
+    <div id="content-contact">
+      <h1>Tory Vickstrom/h1&gt;</h1>
+      <h2>3948 Oakland Ave/h2&gt;</h2>Minneapolis, MN
+      <h2>612.987.7975</h2>
+    </div>
+    <div id="content-summary">
+      <h3>Profile</h3>
+      <p>Well balanced with many skill sets. Dedicated and passionate about the things I love. When you have will- there is a way. I strongly believe that you can do anything you put your mind to.</p>
+    </div>
+    <div id="content-professional">
+      Professional Experience
+      <div id="“SERVER”">
+        <h3>Doolittles</h3>
+        <div class="block-date">
+          <h4>Server</h4>
+          <h4>2018-2022</h4>
+        </div>
+        <div>
+          <ul>
+            <li>Customer service, time management, hustling to get everything done and make people happy at the same time.</li>
+            <div id="“SERVER">
+              <h3>BENO TECH</h3>
+              <div class="block-date">
+                <h4>Adjunct Instructor</h4>
+                <h4>2016-2017</h4>
+              </div>
+              <div>
+                <ul>
+                  <li>Inspect, repair and maintain a warehouse of servers. The company I worked for bought lots of servers from companies that were closing and we repaired them and re-sold them. There was times I had to install operating systems or firmware on certain hardware. One time we installed computers at a business and ran scripts to get all the software on them.</li>
+                </ul>
+              </div>
+            </div>
+            <div id="“STUDIO”">
+              <h3>Diamond Nation LLC3&gt;</h3>
+              <div class="block-date"></div>
+              <h4>Audio Engineer / Owner</h4>
+              <h4>2015 - current</h4>
+            </div>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
